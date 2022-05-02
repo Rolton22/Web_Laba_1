@@ -1,0 +1,27 @@
+.frame {
+    background-color: #dcdde1;
+    width: 650px;
+    height: 725px;
+    padding: 1px 10px;
+}
+.card {
+    margin: 20px 25px;
+    background-color: #ffffff;
+    height: 650px;
+}
+.text {
+    padding: 30px;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    background-color: #f1eaea;
+    height: 50px;
+}
+.space {
+    padding: 0px;
+}
+li {
+    padding: 20px 30px 20px 0px;
+    font-size: 12px;
+}
